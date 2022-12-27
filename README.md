@@ -12,3 +12,7 @@
 ### Вариативные работы
 
 - [ВСР 2.1](https://github.com/AlexTrubkina/practice-december-first-semester/blob/main/VSR/Trubkina%20VSR%202.1.pdf)
+
+### [Задание](https://github.com/AlexTrubkina/practice-december-first-semester/blob/main/Trubkina%20Zadanie.pdf)
+
+### [Отчет](https://github.com/AlexTrubkina/practice-december-first-semester/blob/main/Trubkina%20Report.pdf)
